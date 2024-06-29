@@ -1,0 +1,14 @@
+home
+color tipografia
+
+about
+padding
+
+shop
+card
+padding
+centrar cards
+precio, mas delicado
+
+contactos
+fondos
